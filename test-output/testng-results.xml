@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" total="3" passed="3">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Default suite" duration-ms="52988" started-at="2020-09-15T19:50:33Z" finished-at="2020-09-15T19:51:26Z">
+    <groups>
+    </groups>
+    <test name="Default test" duration-ms="52988" started-at="2020-09-15T19:50:33Z" finished-at="2020-09-15T19:51:26Z">
+      <class name="com.wst.qa.testcases.WST_OpenApplication_Test">
+        <test-method status="PASS" signature="EnvironmentSetUp()[pri:0, instance:com.wst.qa.testcases.WST_OpenApplication_Test@340f438e]" name="EnvironmentSetUp" is-config="true" duration-ms="299" started-at="2020-09-16T01:20:33Z" finished-at="2020-09-16T01:20:33Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- EnvironmentSetUp -->
+        <test-method status="PASS" signature="SetUp()[pri:0, instance:com.wst.qa.testcases.WST_OpenApplication_Test@340f438e]" name="SetUp" is-config="true" duration-ms="20202" started-at="2020-09-16T01:20:33Z" finished-at="2020-09-16T01:20:53Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- SetUp -->
+        <test-method status="PASS" signature="LaunchApplication_Test()[pri:10, instance:com.wst.qa.testcases.WST_OpenApplication_Test@340f438e]" name="LaunchApplication_Test" duration-ms="709" started-at="2020-09-16T01:20:53Z" finished-at="2020-09-16T01:20:54Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- LaunchApplication_Test -->
+        <test-method status="PASS" signature="ClosetheBroser()[pri:0, instance:com.wst.qa.testcases.WST_OpenApplication_Test@340f438e]" name="ClosetheBroser" is-config="true" duration-ms="949" started-at="2020-09-16T01:20:54Z" finished-at="2020-09-16T01:20:55Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- ClosetheBroser -->
+        <test-method status="PASS" signature="SetUp()[pri:0, instance:com.wst.qa.testcases.WST_OpenApplication_Test@340f438e]" name="SetUp" is-config="true" duration-ms="13228" started-at="2020-09-16T01:20:55Z" finished-at="2020-09-16T01:21:08Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- SetUp -->
+        <test-method status="PASS" signature="validate_WST_MainPage_TitleAndURL_Test()[pri:11, instance:com.wst.qa.testcases.WST_OpenApplication_Test@340f438e]" name="validate_WST_MainPage_TitleAndURL_Test" duration-ms="45" started-at="2020-09-16T01:21:08Z" finished-at="2020-09-16T01:21:08Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- validate_WST_MainPage_TitleAndURL_Test -->
+        <test-method status="PASS" signature="ClosetheBroser()[pri:0, instance:com.wst.qa.testcases.WST_OpenApplication_Test@340f438e]" name="ClosetheBroser" is-config="true" duration-ms="756" started-at="2020-09-16T01:21:08Z" finished-at="2020-09-16T01:21:09Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- ClosetheBroser -->
+        <test-method status="PASS" signature="SetUp()[pri:0, instance:com.wst.qa.testcases.WST_OpenApplication_Test@340f438e]" name="SetUp" is-config="true" duration-ms="13148" started-at="2020-09-16T01:21:09Z" finished-at="2020-09-16T01:21:22Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- SetUp -->
+        <test-method status="PASS" signature="WST_CloseApp_Test()[pri:9999, instance:com.wst.qa.testcases.WST_OpenApplication_Test@340f438e]" name="WST_CloseApp_Test" duration-ms="1" started-at="2020-09-16T01:21:22Z" finished-at="2020-09-16T01:21:22Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- WST_CloseApp_Test -->
+        <test-method status="PASS" signature="ClosetheBroser()[pri:0, instance:com.wst.qa.testcases.WST_OpenApplication_Test@340f438e]" name="ClosetheBroser" is-config="true" duration-ms="2819" started-at="2020-09-16T01:21:22Z" finished-at="2020-09-16T01:21:25Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- ClosetheBroser -->
+        <test-method status="PASS" signature="TestCompleted()[pri:0, instance:com.wst.qa.testcases.WST_OpenApplication_Test@340f438e]" name="TestCompleted" is-config="true" duration-ms="801" started-at="2020-09-16T01:21:25Z" finished-at="2020-09-16T01:21:26Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- TestCompleted -->
+      </class> <!-- com.wst.qa.testcases.WST_OpenApplication_Test -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
